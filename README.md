@@ -1,4 +1,4 @@
-# OpenCart RestAPI Cart Module Testing
+# OpenCart REST API Cart Module Testing
 
 This project involves testing the OpenCart RestAPI Cart Module using Postman. The tests include creating a session/token, adding products to the cart, viewing cart contents, editing product quantity in the cart, and removing products from the cart. The tests are exported in Postman format and are suitable for command-line execution using Newman. Integration with Jenkins is also set up for automated testing.
 
